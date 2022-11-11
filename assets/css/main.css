@@ -2634,7 +2634,7 @@ input, select, textarea {
 
 		.feature.left {
 			text-align: left;
-			margin-bottom: 5em;
+			margin-bottom: 10em;
 		}
 
 
@@ -2649,10 +2649,13 @@ input, select, textarea {
 
 			.feature.left .content {
 				padding-right: 0;
+
 			}
 
 		.feature.right {
 			text-align: right;
+			margin-bottom: 2em;
+
 		}
 
 			.feature.right .image {
